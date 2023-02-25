@@ -1,0 +1,15 @@
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.csproj.AssemblyReference.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.AssemblyInfoInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.AssemblyInfo.cs
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.csproj.CoreCompileInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\bin\Debug\net6.0\Classroom.exe
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\bin\Debug\net6.0\Classroom.deps.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\bin\Debug\net6.0\Classroom.runtimeconfig.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\bin\Debug\net6.0\Classroom.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\bin\Debug\net6.0\Classroom.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\refint\Classroom.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\Classroom.genruntimeconfig.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson5_FunctionArray\Lesson5_FunctionArray\Classroom\obj\Debug\net6.0\ref\Classroom.dll
