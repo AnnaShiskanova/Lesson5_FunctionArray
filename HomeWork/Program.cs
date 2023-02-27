@@ -17,7 +17,7 @@ switch(NumberOfTask)
 
     case 3:
     Console.Clear();
-    // Task38();
+    Task38();
     break;
 
     default:
@@ -120,21 +120,66 @@ static void Task36()
     Console.Write($"Sum odd {sum}");
     
     }
-    
-
-
-
-
-
-
-
 
     array = RandomNumbersArray();  
     SumOddNumbers(array);  
     PrintResult(array, sum);
 }
 
+static void Task38()
+{
+    // Задача 38: Задайте массив вещественных чисел. (в задаче массив из целыч чисел)
+    //Найдите разницу между максимальным и минимальным элементов массива.
+    // [3 7 22 2 78] -> 76
 
+Console.WriteLine("Input lenght array");
+    int lenght = Convert.ToInt32(Console.ReadLine());
+    int[] array = new int[lenght];
+    
+
+     int [] RandomNumbersArray()
+    {   
+        int [] arr = new int[lenght];
+    for (int i = 0; i < arr.Length; i++)
+    {
+        arr[i] = new Random().Next(-100,101);
+    }
+    return arr;
+    }
+
+    void PrintResult(int[] arr)
+    {
+    Console.WriteLine($"Array result is {String.Join(" ", array)}");//Join помогает вывести массив в читаемой форме через разделитель, здесь разделитель 
+       
+    }
+
+    void DifferenceMaxMin(int[] array)
+    {   int max = array[0];
+        int min = array[0];
+        for (int i = 0; i < array.Length; i++)
+        {
+            if (array[i] > max)
+            max = array[i];
+            else if (array[i] < min)
+            min = array[i];
+
+        }
+        //Console.WriteLine($"Maximum {max}, minimum {min}");
+        Console.Write($"The difference between the {max} and {min} numbers {max - min}");
+
+
+    
+    }
+
+
+
+
+
+    array = RandomNumbersArray();
+    PrintResult(array);
+    DifferenceMaxMin(array);  
+    
+}
 
 
 
