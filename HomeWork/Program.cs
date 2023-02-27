@@ -37,14 +37,15 @@ static void Task34()
 //Напишите программу, которая покажет количество чётных чисел в массиве.
 //[345, 897, 568, 234] -> 2
 
-
-    int[] array = new int[10];//for exemple 10 elements
+    Console.WriteLine("Input lenght array");
+    int lenght = Convert.ToInt32(Console.ReadLine());
+    int[] array = new int[lenght];//for exemple 10 elements
     
     int count = 0;
 
     int [] RandomNumbersArray()
-    {
-        int [] arr = new int[10];
+    {   
+        int [] arr = new int[lenght];
     for (int i = 0; i < arr.Length; i++)
     {
         arr[i] = new Random().Next(100,1000);
